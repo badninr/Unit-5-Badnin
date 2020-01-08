@@ -14,7 +14,7 @@ public class Num {
     }
 
     public String toString(){
-        return "The value of your num is " + val;
+        return ""+ val;
     }
 
     public boolean equals(Num otherNum){

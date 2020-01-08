@@ -1,4 +1,3 @@
-public class ParameterTester {
     public class ParameterTester {
 
         public void changeValues (int f1, Num f2, Num f3){
@@ -15,4 +14,4 @@ public class ParameterTester {
             System.out.println(f1 + "\t" + f2 + "\t" + f3 + "\n");
         }
     }
-}
+

@@ -1,4 +1,3 @@
-public class ParameterPassing {
     public class ParameterPassing {
         public static void main(String[] args) {
             ParameterTester tester = new ParameterTester();
@@ -18,4 +17,3 @@ public class ParameterPassing {
             System.out.println(a1 + "\t" + a2 + "\t" + a3 + "\n");
         }
     }
-}
