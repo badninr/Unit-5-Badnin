@@ -22,6 +22,6 @@ public class Num implements Comparable {
     }
 
     public int compareTo(Object other){
-        
+
     }
 }
